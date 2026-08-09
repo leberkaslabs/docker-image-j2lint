@@ -1,6 +1,6 @@
 # Jinja2-Linter
 
-[![Container Release (j2lint)](https://github.com/leberkaslabs/docker-image-j2lint/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-j2lint/actions/workflows/build-push-action.yml)
+[![Container Release (j2lint)](https://github.com/leberkaslabs/docker-image-j2lint/actions/workflows/build.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-j2lint/actions/workflows/build.yml)
 
 This repository is designed to build Docker images for [j2lint](https://github.com/aristanetworks/j2lint).
 
